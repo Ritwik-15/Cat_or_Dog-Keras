@@ -8,7 +8,7 @@ It uses image processing and Convolution Neural Networks to detect and identify 
 
 ## Accessable From
 ``CNN.py``
-#### _The images of the single prediction can be changed fron the dataset or form the #single pred section in the code_
+#### _The images of the input can be changed in the dataset or form the #single pred section in the code_
 
 ## Steps to success
 1. Preprocessing the images using Keras
